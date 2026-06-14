@@ -1,5 +1,3 @@
-## Toby Rosen
-
 I build tools for marketing, legal, AI, and also sometimes weird golf stuff. 
 
 - **🍕 My Personal Site**: https://tobyrosen.com/
