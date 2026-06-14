@@ -1,4 +1,11 @@
-## Hi there 👋
+## Toby Rosen
+
+I build tools for marketing, legal, AI, and also sometimes weird golf stuff. 
+
+- **🍕 My Personal Site**: https://tobyrosen.com/
+- **🏢 My Agency**: https://rosenadvertising.com/
+
+**[Let's work on something together](https://tobyrosen.com/#contact)**
 
 <!--
 **tobyrosen/tobyrosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +20,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+ I felt bad about deleting all the cute emojis, so I left this in there, and if you're seeing this, thanks for reading!
 -->
