@@ -24,7 +24,6 @@
 <p>
   <a href="https://tobyrosen.com/"><img alt="Website" src="https://img.shields.io/badge/tobyrosen.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"></a>
   <a href="https://rosenadvertising.com/"><img alt="Rosen Advertising" src="https://img.shields.io/badge/Rosen%20Advertising-448BDE?style=for-the-badge&logo=google-ads&logoColor=white"></a>
-  <a href="https://github.com/tobyrosen"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
 
 **[Let's work on something together](https://tobyrosen.com/#contact)**
