@@ -11,6 +11,7 @@
 ## Current Projects
 
 - 🏢 **[Rosen Advertising](https://rosenadvertising.com/)** — US-facing legal marketing agency focused on PPC, SEO, content systems, and growth infrastructure for law firms.
+- 🤖 **[AI Tools for Legal](https://github.com/RosenAdvertising)** — Practical AI utilities for legal marketing strategy, workflow automation, and campaign operations.
 - 🧠 **[legal-ppc-skill](https://github.com/tobyrosen/legal-ppc-skill)** — Claude Skill for legal PPC analysis, campaign review, and agency workflows.
 - 📐 **[brand-guide-schema](https://github.com/tobyrosen/brand-guide-schema)** — structured brand-guide schema for LLMs, agents, and repeatable creative systems.
 
